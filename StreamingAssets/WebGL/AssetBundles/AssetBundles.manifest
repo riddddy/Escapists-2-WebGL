@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 3769870381
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: leveleditoruiscene
+      Dependencies: {}
+    Info_1:
+      Name: leveleditorgamescene
+      Dependencies: {}
+    Info_2:
+      Name: tutorial_prison
+      Dependencies: {}
+    Info_3:
+      Name: frontendeditor
+      Dependencies: {}
+    Info_4:
+      Name: space prison
+      Dependencies: {}
+    Info_5:
+      Name: pow_camp
+      Dependencies: {}
+    Info_6:
+      Name: ingamemenus
+      Dependencies: {}
+    Info_7:
+      Name: oldwestfort
+      Dependencies: {}
+    Info_8:
+      Name: hud
+      Dependencies: {}
+    Info_9:
+      Name: oil_rig
+      Dependencies: {}
+    Info_10:
+      Name: global
+      Dependencies: {}
+    Info_11:
+      Name: halloween_prison
+      Dependencies: {}
+    Info_12:
+      Name: frontend
+      Dependencies: {}
+    Info_13:
+      Name: gulag_prison
+      Dependencies: {}
+    Info_14:
+      Name: credits
+      Dependencies: {}
+    Info_15:
+      Name: dlc06_prison
+      Dependencies: {}
+    Info_16:
+      Name: boot
+      Dependencies: {}
+    Info_17:
+      Name: dlc05_prison
+      Dependencies: {}
+    Info_18:
+      Name: dlc04_prison
+      Dependencies: {}
+    Info_19:
+      Name: dlc03_prison
+      Dependencies: {}
+    Info_20:
+      Name: roundresults
+      Dependencies: {}
+    Info_21:
+      Name: dictator_prison
+      Dependencies: {}
+    Info_22:
+      Name: rewiredinputsettings
+      Dependencies: {}
+    Info_23:
+      Name: centre_perks
+      Dependencies: {}
+    Info_24:
+      Name: loading
+      Dependencies: {}
+    Info_25:
+      Name: area_17
+      Dependencies: {}
+    Info_26:
+      Name: transport_train
+      Dependencies: {}
+    Info_27:
+      Name: transport_plane
+      Dependencies: {}
+    Info_28:
+      Name: transport_boat
+      Dependencies: {}
