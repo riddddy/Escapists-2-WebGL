@@ -1,0 +1,65 @@
+{
+ "Build/WebGL.data.gz": {
+  "gzip": true,
+  "partCount": 5,
+  "totalSize": 85131380
+ },
+ "Build/WebGL.framework.js.gz": {
+  "gzip": true,
+  "partCount": 1,
+  "totalSize": 100621
+ },
+ "Build/WebGL.loader.js": {
+  "partCount": 1,
+  "totalSize": 17134
+ },
+ "Build/WebGL.wasm.gz": {
+  "gzip": true,
+  "partCount": 1,
+  "totalSize": 11466478
+ },
+ "StreamingAssets/Video/Background.mp4": {
+  "partCount": 2,
+  "totalSize": 37010514
+ },
+ "StreamingAssets/WebGL/AssetBundles/area_17": {
+  "partCount": 2,
+  "totalSize": 24858370
+ },
+ "StreamingAssets/WebGL/AssetBundles/centre_perks": {
+  "partCount": 2,
+  "totalSize": 25108469
+ },
+ "StreamingAssets/WebGL/AssetBundles/dictator_prison": {
+  "partCount": 2,
+  "totalSize": 23565146
+ },
+ "StreamingAssets/WebGL/AssetBundles/dlc04_prison": {
+  "partCount": 2,
+  "totalSize": 23555226
+ },
+ "StreamingAssets/WebGL/AssetBundles/dlc05_prison": {
+  "partCount": 2,
+  "totalSize": 32378579
+ },
+ "StreamingAssets/WebGL/AssetBundles/dlc06_prison": {
+  "partCount": 2,
+  "totalSize": 19055590
+ },
+ "StreamingAssets/WebGL/AssetBundles/gulag_prison": {
+  "partCount": 2,
+  "totalSize": 24848706
+ },
+ "StreamingAssets/WebGL/AssetBundles/halloween_prison": {
+  "partCount": 2,
+  "totalSize": 26781279
+ },
+ "StreamingAssets/WebGL/AssetBundles/oldwestfort": {
+  "partCount": 2,
+  "totalSize": 28393010
+ },
+ "StreamingAssets/WebGL/AssetBundles/pow_camp": {
+  "partCount": 2,
+  "totalSize": 23043386
+ }
+}
